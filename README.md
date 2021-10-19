@@ -5,7 +5,6 @@ I'm a self-taught programmer and born at a young age, learning **Flutter** frame
 
 **My Socials**
 
-<a href="https://www.instagram.com/aryaaarach/"><img style="margin:8px" width="40" src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/Instagram%20-%20Icon.png"></a>
 <a href="https://www.linkedin.com/in/arya-r-8b613320b/"><img style="margin:8px" width="40" src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/LinkedIn%20-%20Icon.png"></a>
 <a href="https://twitter.com/aryaaarach"><img style="margin:8px" width="40" src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/Twitter%20-%20Icon.png"></a>
 
