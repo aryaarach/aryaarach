@@ -12,6 +12,7 @@ I'm a self-taught programmer and born at a young age, learning **Flutter** frame
 
 <img align="left" width="40" style="margin:8px" src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/Dart%20Language%20-%20Icon.png">
 <img align="left" width="40" style="margin:8px" src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/Flutter%20-%20Icon.png">
+<img align="left" width="40" style="margin:8px" src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/Golang%20-%20Icon.png">
 <img width="40" style="margin:8px" src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/Firebase%20-%20Icon.png">
 
 **Software :**
