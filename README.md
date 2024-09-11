@@ -28,5 +28,3 @@ I'm a self-taught programmer and born at a young age, learning **Flutter** frame
 ---
 
 <img style="margin:8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaaarach&layout=compact&hide=html&"/>
-
-<img style="margin:8px" src="https://github-readme-stats.vercel.app/api?username=aryaaarach&show_icons=true&include_all_commits=true" alt="aryaaarach" />
