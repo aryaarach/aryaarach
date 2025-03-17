@@ -27,4 +27,4 @@ I'm a self-taught programmer, very interested in software development and happy 
 
 ---
 
-<img style="margin:8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaaarach&layout=compact&hide=html&"/>
+<img style="margin:8px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaarach&layout=compact&hide=html&"/>
