@@ -1,7 +1,7 @@
 # 👋
 
 Hi, my name is **Arya**.\
-I'm a self-taught programmer and born at a young age, learning **Flutter** framework since January 2021,very interested in programming language development and happy to learn new things.
+I'm a self-taught programmer, very interested in software development and happy to learn new things.
 
 **My Socials**
 
