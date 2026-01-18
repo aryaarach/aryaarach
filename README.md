@@ -18,7 +18,7 @@ Tools & Software
 <div style="display: flex; gap: 16px; margin-bottom: 24px; flex-wrap: wrap;"> <img width="40" src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/Visual%20Studio%20Code%20-%20Icon.png" alt="VS Code"> <img width="40" src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/Figma%20-%20Icon.png" alt="Figma"> <img width="40" src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/Blender%20-%20Icon.png" alt="Blender"> </div>
 <br>
 📊 GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aryaarach?cardType=level&fontFamily=Inter&preferLogin=false)](https://git.io/awesome-stats-card)
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=Inter&preferLogin=false">    <img  alt="aryaarach's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/aryaarach?cardType=level&fontFamily=Inter&preferLogin=false" />  </a>
 <br>
 <small> Icon sources: <a href="https://vectorlogo.zone">Vector Logo Zone</a> • <a href="https://worldvectorlogo.com">World Vector Logo</a> </small>
 ✨ Always learning, always building 🚀
