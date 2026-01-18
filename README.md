@@ -18,7 +18,7 @@ Tools & Software
 <div style="display: flex; gap: 16px; margin-bottom: 24px; flex-wrap: wrap;"> <img width="40" src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/Visual%20Studio%20Code%20-%20Icon.png" alt="VS Code"> <img width="40" src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/Figma%20-%20Icon.png" alt="Figma"> <img width="40" src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/Blender%20-%20Icon.png" alt="Blender"> </div>
 
 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api/top-langs/?username=aryaarach&layout=compact&hide=html&theme=default
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryaarach&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 <small> Icon sources: <a href="https://vectorlogo.zone">Vector Logo Zone</a> • <a href="https://worldvectorlogo.com">World Vector Logo</a> </small>
 ✨ Always learning, always building 🚀
