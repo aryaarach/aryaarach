@@ -29,15 +29,15 @@ I'm a self-taught programmer, very interested in software development and happy 
 
 **Databases**
 
-<img width="40" style="margin:8px" src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/Firebase%20-%20Icon.png">
-<img width="40" style="margin:8px" src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/MySQL%20-%20Icon.png">
+<img align="left" width="40" style="margin:8px" src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/Firebase%20-%20Icon.png">
+<img align="left" width="40" style="margin:8px" src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/MySQL%20-%20Icon.png">
 <br />
 
 **Software**
 
 <img align="left" width="40" style="margin:8px"  src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/Figma%20-%20Icon.png">
 <img align="left" width="40" style="margin:8px"  src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/Visual%20Studio%20Code%20-%20Icon.png">
-<img width="40" style="margin:8px" src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/Blender%20-%20Icon.png">
+<img align="left" width="40" style="margin:8px" src="https://raw.githubusercontent.com/aryaaarach/aryaaarach/main/assets/icons/Blender%20-%20Icon.png">
 <br />
 
 <p align="left"> Icon Source : <a href="https://vectorlogo.zone">Vector Logo Zone</a> & <a href="https://worldvectorlogo.com">World Vector Logo</a></p>
