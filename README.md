@@ -31,24 +31,13 @@
 </p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — telemetry"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"/><img src="assets/telemetry.svg" alt="Animated development telemetry"/></picture>
 
 <div align="center">
 
-<a href="https://github.com/aryaarach" target="_blank" rel="noopener noreferrer">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/aryaarach?cardType=level&fontFamily=Inter&preferLogin=false" width="97%" alt="Arya's GitHub Stats" />
-</a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"/><img src="assets/github-stats.svg" width="97%" alt="GitHub statistics and repository languages"/></picture>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aryaarach&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=aryaarach&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub Readme Stats" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=aryaarach&theme=github_dark_dimmed&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaarach&theme=default&hide_border=true" alt="Streak Stats" />
-  </picture>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contribution-graph.svg"/><img src="assets/contribution-graph.svg" width="97%" alt="Contribution activity by month"/></picture>
 
 </div>
 
